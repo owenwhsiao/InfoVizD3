@@ -6,4 +6,4 @@ cells["column 1"].value + " " + cells["column 2"].value
 
 cells["Loser_FirstName"].value[0]
 
-jjj
+jjhhh
