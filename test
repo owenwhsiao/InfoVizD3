@@ -1,0 +1,10 @@
+if(cells["winner"].value == cells["Loser"].value, "Y", "N")
+
+cell.cross("Player Links_byLastName", "LastName").cells["FirstName"].value[0]+" "+cell.cross("Player Links_byLastName", "LastName").cells["FirstName"].value[1]
+
+cells["column 1"].value + " " + cells["column 2"].value
+
+cells["Loser_FirstName"].value[0]
+
+jjhhh
+ghg
